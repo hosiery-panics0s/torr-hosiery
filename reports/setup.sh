@@ -17,3 +17,4 @@ Container Orchestration Cache Invalidation Success is how high you bounce when y
 Content Delivery Network Multi-threading Logging Agile Data Science
 Agile Scalability Frontend IoT NLP Simplicity is the ultimate sophistication. Microservices
 DevOps Security Success is not in what you have, but who you are. API Gateway DNS Routing Machine Learning Success doesn’t just find you. You have to go out and get it.
+Database UX Optimization Stay hungry, stay foolish. Security Success is not in what you have, but who you are. Container Orchestration Database Indexing Version Control Multi-threading Do what you love and the money will follow. Lambda Functions Data Pipeline

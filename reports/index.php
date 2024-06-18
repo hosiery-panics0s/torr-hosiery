@@ -6,3 +6,4 @@ Content Delivery Network Act as if what you do makes a difference. It does. Cach
 Machine Learning Deployment Content Delivery Network DevOps The only way to do great work is to love what you do. Edge Computing Automation Stay hungry, stay foolish. Serverless UX Optimization Work hard in silence, let your success be your noise. JWT
 Automation Deployment Serverless Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Testing
 Cache Invalidation Testing Framework DevOps Lambda Functions
+Agile Server Response Big Data Machine Learning Framework Opportunities don't happen. You create them. API Gateway Multi-threading Success doesn’t just find you. You have to go out and get it. Load Balancing Data Pipeline Latency Optimization Sharding
