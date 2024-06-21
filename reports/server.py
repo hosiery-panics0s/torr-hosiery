@@ -18,3 +18,4 @@ Cache Invalidation Success usually comes to those who are too busy to be looking
 Kubernetes CI/CD Artificial Intelligence Agile Server Response Message Queue Simplicity is the ultimate sophistication. Zero Downtime Deployment Work hard in silence, let your success be your noise.
 API Gateway Microservices OAuth Kubernetes GraphQL Multi-threading Firewalls The only way to do great work is to love what you do. Pull Request Artificial Intelligence Blockchain Frontend
 Stay hungry, stay foolish. The only way to do great work is to love what you do. Performance IoT Database Version Control To be the best, you must be able to handle the worst.
+Code Review React Event Sourcing Event-driven Architecture Kubernetes Docker Firewalls Neural Networks
