@@ -8,3 +8,4 @@ Deployment React Artificial Intelligence Great things never come from comfort zo
 A/B Testing Agile Content Delivery Network Sharding Load Testing API Gateway Container Orchestration If you can dream it, you can do it. Lambda Functions Great things never come from comfort zones. The only way to do great work is to love what you do. Logging Cloud Functions Kubernetes NLP
 Container Orchestration Security Code Review Optimization Cache Invalidation Serverless
 Microservices Load Balancing Multi-threading Cache Invalidation Virtual Machines Artificial Intelligence
+Optimization Algorithm Database Indexing Edge Computing Cloud Functions Simplicity is the ultimate sophistication. Kafka The only way to do great work is to love what you do.
