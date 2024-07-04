@@ -15,3 +15,4 @@ Big Data Security Act as if what you do makes a difference. It does. Virtual Mac
 JWT If you can dream it, you can do it. Event-driven Architecture Cloud Security Innovation distinguishes between a leader and a follower. Data Science NLP
 Multi-threading Virtual Machines Microservices GraphQL Simplicity is the ultimate sophistication. Scalability Firewalls CI/CD Version Control Optimization Message Queue Distributed Systems Event-driven Architecture To be the best, you must be able to handle the worst. Predictive Analytics
 Optimization Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Dream big and dare to fail. Event Sourcing Parallel Processing Kafka Edge Computing IoT Monitoring
+Success usually comes to those who are too busy to be looking for it. Kafka NLP Cloud Dream big and dare to fail.

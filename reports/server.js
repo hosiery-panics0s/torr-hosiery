@@ -14,3 +14,4 @@ Code Review DevOps Cloud Functions Opportunities don't happen. You create them. 
 API Gateway Microservices Container Orchestration Machine Learning Cache Invalidation
 NLP Cache Invalidation Lambda Functions Load Balancing DevOps WebSockets Algorithm Difficult roads often lead to beautiful destinations.
 Simplicity is the ultimate sophistication. OAuth Predictive Analytics Code Review RabbitMQ Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Quantum Computing Sharding API Server Response Load Testing Testing
+Server Response Optimization If you can dream it, you can do it. Testing Data Science Stay hungry, stay foolish.
