@@ -14,3 +14,4 @@ GraphQL NLP Serverless Work hard in silence, let your success be your noise. Big
 Artificial Intelligence Big Data Cloud Server Response Blockchain Firewalls Frontend Cache Invalidation Microservices Success is how high you bounce when you hit bottom.
 Container Orchestration Docker Success doesn’t just find you. You have to go out and get it. Kubernetes Cloud Virtual Machines React Distributed Systems Happiness is not something ready made. It comes from your own actions.
 Cloud Python GraphQL API CI/CD
+Event-driven Architecture Dream big and dare to fail. The only way to do great work is to love what you do. Quantum Computing Container Orchestration Firewalls OAuth Virtual Machines Python Neural Networks NLP Edge Computing
