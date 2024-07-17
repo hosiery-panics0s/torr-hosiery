@@ -8,3 +8,4 @@ Blockchain JWT UX Optimization Cache Invalidation DevOps Neural Networks Zero Do
 If you can dream it, you can do it. Logging WebSockets Parallel Processing Predictive Analytics Kubernetes Load Testing
 Automation Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Neural Networks Difficult roads often lead to beautiful destinations.
 DNS Routing Event-driven Architecture Kubernetes Load Balancing A/B Testing Agile RabbitMQ Cloud API Gateway I find that the harder I work, the more luck I seem to have. Kafka Deployment Multi-threading Distributed Systems Success is not in what you have, but who you are.
+NLP Lambda Functions Parallel Processing UX Optimization Optimization Virtual Machines Database Indexing CI/CD Cache Invalidation Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Event Sourcing OAuth Big Data Content Delivery Network
