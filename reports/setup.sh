@@ -16,3 +16,4 @@ Serverless API Monitoring Sharding Backend Container Orchestration Predictive An
 Container Orchestration Cache Invalidation Success is how high you bounce when you hit bottom. JavaScript Success is not in what you have, but who you are. Event-driven Architecture Security WebSockets
 Content Delivery Network Multi-threading Logging Agile Data Science
 Agile Scalability Frontend IoT NLP Simplicity is the ultimate sophistication. Microservices
+DevOps Security Success is not in what you have, but who you are. API Gateway DNS Routing Machine Learning Success doesn’t just find you. You have to go out and get it.
