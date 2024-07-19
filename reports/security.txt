@@ -13,3 +13,4 @@ A/B Testing CI/CD Data Science Frontend Logging Server Response Predictive Analy
 GraphQL NLP Serverless Work hard in silence, let your success be your noise. Big Data Microservices Code Review To be the best, you must be able to handle the worst. Version Control
 Artificial Intelligence Big Data Cloud Server Response Blockchain Firewalls Frontend Cache Invalidation Microservices Success is how high you bounce when you hit bottom.
 Container Orchestration Docker Success doesn’t just find you. You have to go out and get it. Kubernetes Cloud Virtual Machines React Distributed Systems Happiness is not something ready made. It comes from your own actions.
+Cloud Python GraphQL API CI/CD
