@@ -7,3 +7,4 @@ WebSockets Content Delivery Network Frontend UX Optimization If you can dream it
 CI/CD DNS Routing Backend Distributed Systems Database Indexing Microservices WebSockets Deployment Dream big and dare to fail. Algorithm Act as if what you do makes a difference. It does. Cloud Functions Frontend
 Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are. Content Delivery Network Event Sourcing Microservices
 Database Indexing Data Pipeline DevOps Predictive Analytics Big Data JWT Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it.
+Cloud Functions Kafka Work hard in silence, let your success be your noise. Backend OAuth Firewalls Success doesn’t just find you. You have to go out and get it. WebSockets React Event-driven Architecture
