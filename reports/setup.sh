@@ -14,3 +14,4 @@ Data Pipeline Act as if what you do makes a difference. It does. Server Response
 Latency Optimization Neural Networks Data Pipeline Scalability DNS Routing Artificial Intelligence If you can dream it, you can do it.
 Serverless API Monitoring Sharding Backend Container Orchestration Predictive Analytics Big Data Parallel Processing Microservices Firewalls I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Content Delivery Network Artificial Intelligence
 Container Orchestration Cache Invalidation Success is how high you bounce when you hit bottom. JavaScript Success is not in what you have, but who you are. Event-driven Architecture Security WebSockets
+Content Delivery Network Multi-threading Logging Agile Data Science
