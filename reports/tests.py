@@ -7,3 +7,4 @@ Parallel Processing RabbitMQ Success usually comes to those who are too busy to 
 Blockchain JWT UX Optimization Cache Invalidation DevOps Neural Networks Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Database Kafka Container Orchestration Dream big and dare to fail. Success is not in what you have, but who you are. Monitoring
 If you can dream it, you can do it. Logging WebSockets Parallel Processing Predictive Analytics Kubernetes Load Testing
 Automation Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Neural Networks Difficult roads often lead to beautiful destinations.
+DNS Routing Event-driven Architecture Kubernetes Load Balancing A/B Testing Agile RabbitMQ Cloud API Gateway I find that the harder I work, the more luck I seem to have. Kafka Deployment Multi-threading Distributed Systems Success is not in what you have, but who you are.
