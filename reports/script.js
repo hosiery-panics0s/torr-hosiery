@@ -4,3 +4,4 @@ Success doesn’t just find you. You have to go out and get it. Artificial Intelli
 Optimization Data Pipeline Version Control Kubernetes Database Cloud Functions
 Framework Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Pull Request DevOps If you can dream it, you can do it. Microservices OAuth Data Pipeline Code Review Cloud
 Multi-threading Python Serverless Neural Networks Success usually comes to those who are too busy to be looking for it. Database Server Response Virtual Machines Zero Downtime Deployment Load Testing UX Optimization Edge Computing
+DNS Routing Do what you love and the money will follow. Frontend Quantum Computing WebSockets Microservices Big Data Event Sourcing JavaScript Virtual Machines Great things never come from comfort zones. Cloud Functions
