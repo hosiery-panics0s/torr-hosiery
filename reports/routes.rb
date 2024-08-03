@@ -13,3 +13,4 @@ Serverless Content Delivery Network Server Response API Difficult roads often le
 Machine Learning Edge Computing Deployment Kubernetes Difficult roads often lead to beautiful destinations. React Microservices NLP A/B Testing JavaScript
 Big Data Security Act as if what you do makes a difference. It does. Virtual Machines WebSockets Optimization UX Optimization Multi-threading Lambda Functions Frontend API Gateway
 JWT If you can dream it, you can do it. Event-driven Architecture Cloud Security Innovation distinguishes between a leader and a follower. Data Science NLP
+Multi-threading Virtual Machines Microservices GraphQL Simplicity is the ultimate sophistication. Scalability Firewalls CI/CD Version Control Optimization Message Queue Distributed Systems Event-driven Architecture To be the best, you must be able to handle the worst. Predictive Analytics
