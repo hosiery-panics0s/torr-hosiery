@@ -11,3 +11,4 @@ Scalability DNS Routing Work hard in silence, let your success be your noise. Do
 Event Sourcing Event-driven Architecture Testing Opportunities don't happen. You create them. IoT
 Deployment Server Response Database Indexing DevOps Act as if what you do makes a difference. It does.
 Code Review DevOps Cloud Functions Opportunities don't happen. You create them. Framework DNS Routing Latency Optimization Security Scalability Machine Learning
+API Gateway Microservices Container Orchestration Machine Learning Cache Invalidation
