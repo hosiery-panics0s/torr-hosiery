@@ -5,3 +5,4 @@ WebSockets Virtual Machines Agile Scalability Latency Optimization Cloud Functio
 Content Delivery Network Great things never come from comfort zones. Parallel Processing Microservices Version Control Code Review Kafka GraphQL
 React JWT Success doesn’t just find you. You have to go out and get it. Algorithm Serverless Happiness is not something ready made. It comes from your own actions. Scalability Message Queue Innovation distinguishes between a leader and a follower.
 Deployment Sharding Virtual Machines Version Control Distributed Systems Cache Invalidation JavaScript
+Microservices Scalability Happiness is not something ready made. It comes from your own actions. NLP CI/CD Zero Downtime Deployment RabbitMQ Load Balancing A/B Testing Algorithm Server Response Logging Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Kafka
