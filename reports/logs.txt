@@ -6,3 +6,4 @@ JavaScript Dream big and dare to fail. Latency Optimization Monitoring Algorithm
 GraphQL Backend Simplicity is the ultimate sophistication. Deployment Quantum Computing IoT CI/CD A/B Testing Microservices NLP Machine Learning Cloud Functions
 Deployment React Artificial Intelligence Great things never come from comfort zones. Security JavaScript Replica Set Docker Message Queue Act as if what you do makes a difference. It does.
 A/B Testing Agile Content Delivery Network Sharding Load Testing API Gateway Container Orchestration If you can dream it, you can do it. Lambda Functions Great things never come from comfort zones. The only way to do great work is to love what you do. Logging Cloud Functions Kubernetes NLP
+Container Orchestration Security Code Review Optimization Cache Invalidation Serverless
