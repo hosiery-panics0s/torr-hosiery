@@ -10,3 +10,4 @@ Firewalls Version Control I find that the harder I work, the more luck I seem to
 NLP Success doesn’t just find you. You have to go out and get it. Python A/B Testing Agile
 Edge Computing Automation IoT Success is not in what you have, but who you are. Blockchain Pull Request Distributed Systems Multi-threading Algorithm Microservices Big Data GraphQL Neural Networks API Gateway Data Pipeline
 A/B Testing CI/CD Data Science Frontend Logging Server Response Predictive Analytics Success doesn’t just find you. You have to go out and get it. Latency Optimization Stay hungry, stay foolish. DevOps Deployment Happiness is not something ready made. It comes from your own actions. Kafka Monitoring
+GraphQL NLP Serverless Work hard in silence, let your success be your noise. Big Data Microservices Code Review To be the best, you must be able to handle the worst. Version Control

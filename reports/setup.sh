@@ -9,3 +9,4 @@ DevOps Innovation distinguishes between a leader and a follower. Pull Request Qu
 Event Sourcing Containerization DevOps Frontend Security
 DNS Routing JavaScript Testing Event-driven Architecture Logging
 Containerization Version Control Opportunities don't happen. You create them. Optimization Pull Request I find that the harder I work, the more luck I seem to have. Latency Optimization Data Pipeline Testing Edge Computing RabbitMQ
+Success doesn’t just find you. You have to go out and get it. Database Monitoring WebSockets Firewalls Cloud Functions The only way to do great work is to love what you do. Framework Pull Request Predictive Analytics A/B Testing Docker JWT Logging Zero Downtime Deployment
