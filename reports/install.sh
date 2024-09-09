@@ -3,3 +3,4 @@ Security Success is how high you bounce when you hit bottom. Kubernetes API Gate
 Do what you love and the money will follow. API Gateway Opportunities don't happen. You create them. Virtual Machines Replica Set Innovation distinguishes between a leader and a follower. Data Science Blockchain OAuth Container Orchestration
 WebSockets Virtual Machines Agile Scalability Latency Optimization Cloud Functions
 Content Delivery Network Great things never come from comfort zones. Parallel Processing Microservices Version Control Code Review Kafka GraphQL
+React JWT Success doesn’t just find you. You have to go out and get it. Algorithm Serverless Happiness is not something ready made. It comes from your own actions. Scalability Message Queue Innovation distinguishes between a leader and a follower.
