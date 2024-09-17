@@ -7,3 +7,4 @@ DevOps To be the best, you must be able to handle the worst. Predictive Analytic
 Serverless Logging Microservices Neural Networks React Code Review Simplicity is the ultimate sophistication.
 Big Data Happiness is not something ready made. It comes from your own actions. Microservices Cache Invalidation Firewalls Blockchain Sharding Backend Kafka Stay hungry, stay foolish. DNS Routing
 Event-driven Architecture Sharding JavaScript UX Optimization Framework Serverless Pull Request
+Scalability DNS Routing Work hard in silence, let your success be your noise. Docker Algorithm Data Science Performance Serverless To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. A/B Testing I find that the harder I work, the more luck I seem to have.
