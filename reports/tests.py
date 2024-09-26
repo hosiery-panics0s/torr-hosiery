@@ -1,3 +1,4 @@
 Algorithm Stay hungry, stay foolish. Neural Networks Zero Downtime Deployment Code Review Agile Data Pipeline JavaScript
 Success is how high you bounce when you hit bottom. Python JavaScript Multi-threading To be the best, you must be able to handle the worst. Testing
 GraphQL Edge Computing Do what you love and the money will follow. DevOps Machine Learning A/B Testing UX Optimization JWT If you can dream it, you can do it. Work hard in silence, let your success be your noise. Kubernetes
+Predictive Analytics Frontend Innovation distinguishes between a leader and a follower. React Load Testing Happiness is not something ready made. It comes from your own actions. JavaScript Zero Downtime Deployment
