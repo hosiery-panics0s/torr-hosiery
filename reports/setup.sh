@@ -8,3 +8,4 @@ Microservices Load Testing DevOps Sharding Frontend Stay hungry, stay foolish. D
 DevOps Innovation distinguishes between a leader and a follower. Pull Request Quantum Computing Do what you love and the money will follow. Dream big and dare to fail. Blockchain Content Delivery Network Sharding Performance Replica Set Backend Data Pipeline CI/CD
 Event Sourcing Containerization DevOps Frontend Security
 DNS Routing JavaScript Testing Event-driven Architecture Logging
+Containerization Version Control Opportunities don't happen. You create them. Optimization Pull Request I find that the harder I work, the more luck I seem to have. Latency Optimization Data Pipeline Testing Edge Computing RabbitMQ
