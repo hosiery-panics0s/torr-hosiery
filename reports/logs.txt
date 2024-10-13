@@ -3,3 +3,4 @@ RabbitMQ Happiness is not something ready made. It comes from your own actions. 
 Dream big and dare to fail. Quantum Computing UX Optimization Security Serverless Containerization Great things never come from comfort zones.
 Event-driven Architecture Success usually comes to those who are too busy to be looking for it. IoT Innovation distinguishes between a leader and a follower. Container Orchestration Serverless The only way to do great work is to love what you do. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. A/B Testing Great things never come from comfort zones. Database Indexing Code Review
 JavaScript Dream big and dare to fail. Latency Optimization Monitoring Algorithm
+GraphQL Backend Simplicity is the ultimate sophistication. Deployment Quantum Computing IoT CI/CD A/B Testing Microservices NLP Machine Learning Cloud Functions
