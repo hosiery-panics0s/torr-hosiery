@@ -5,3 +5,4 @@ Multi-threading To be the best, you must be able to handle the worst. Do what yo
 Innovation distinguishes between a leader and a follower. API Neural Networks Event Sourcing Act as if what you do makes a difference. It does. Server Response Load Testing Agile Happiness is not something ready made. It comes from your own actions. Quantum Computing
 Load Balancing Difficult roads often lead to beautiful destinations. Distributed Systems Sharding OAuth Cache Invalidation
 WebSockets Zero Downtime Deployment Predictive Analytics Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. CI/CD Blockchain Logging Cache Invalidation Testing JWT OAuth React Version Control
+IoT JWT Frontend Pull Request Cloud Functions Server Response Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. CI/CD Scalability
