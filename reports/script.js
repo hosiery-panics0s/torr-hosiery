@@ -2,3 +2,4 @@ Data Pipeline Kubernetes Server Response Optimization Success is how high you bo
 NLP Algorithm Lambda Functions Edge Computing Load Balancing Code Review Great things never come from comfort zones. WebSockets To be the best, you must be able to handle the worst. Data Pipeline
 Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Innovation distinguishes between a leader and a follower. DevOps Edge Computing RabbitMQ I find that the harder I work, the more luck I seem to have. API Gateway
 Optimization Data Pipeline Version Control Kubernetes Database Cloud Functions
+Framework Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Pull Request DevOps If you can dream it, you can do it. Microservices OAuth Data Pipeline Code Review Cloud
