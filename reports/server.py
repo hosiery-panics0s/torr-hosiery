@@ -8,3 +8,4 @@ Simplicity is the ultimate sophistication. Security Logging RabbitMQ Kafka Cache
 Automation Data Science Security Container Orchestration Load Balancing Virtual Machines Performance Opportunities don't happen. You create them.
 Cloud Functions Database Machine Learning API API Gateway Zero Downtime Deployment Data Pipeline Agile Server Response UX Optimization Event-driven Architecture
 Logging If you can dream it, you can do it. Data Science Do what you love and the money will follow. Replica Set
+Server Response Kubernetes To be the best, you must be able to handle the worst. Logging Testing Event Sourcing Event-driven Architecture Stay hungry, stay foolish. RabbitMQ Performance A/B Testing Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.

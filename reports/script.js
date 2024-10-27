@@ -1,3 +1,4 @@
 Data Pipeline Kubernetes Server Response Optimization Success is how high you bounce when you hit bottom. Cache Invalidation Dream big and dare to fail. Work hard in silence, let your success be your noise. Database Indexing Pull Request Simplicity is the ultimate sophistication. Serverless Event Sourcing Data Science Backend
 NLP Algorithm Lambda Functions Edge Computing Load Balancing Code Review Great things never come from comfort zones. WebSockets To be the best, you must be able to handle the worst. Data Pipeline
 Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Innovation distinguishes between a leader and a follower. DevOps Edge Computing RabbitMQ I find that the harder I work, the more luck I seem to have. API Gateway
+Optimization Data Pipeline Version Control Kubernetes Database Cloud Functions

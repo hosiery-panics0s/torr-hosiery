@@ -6,3 +6,4 @@ Automation IoT Big Data The only way to do great work is to love what you do. Co
 GraphQL Security Multi-threading Performance Firewalls Microservices
 Kafka Neural Networks Simplicity is the ultimate sophistication. Security GraphQL Data Pipeline Code Review Lambda Functions Work hard in silence, let your success be your noise.
 API Gateway Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Edge Computing JWT Container Orchestration If you can dream it, you can do it. Kafka Data Science Load Testing Load Balancing Replica Set Optimization
+Firewalls Version Control I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Kafka Serverless Stay hungry, stay foolish. Frontend Content Delivery Network Event-driven Architecture Kubernetes WebSockets
