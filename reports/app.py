@@ -1,2 +1,3 @@
 Deployment Data Science Container Orchestration Stay hungry, stay foolish. Scalability Machine Learning Innovation distinguishes between a leader and a follower. Blockchain Backend Predictive Analytics
 Big Data Latency Optimization Cache Invalidation GraphQL Act as if what you do makes a difference. It does. Artificial Intelligence JavaScript Parallel Processing Monitoring Kubernetes Firewalls RabbitMQ Containerization Automation Predictive Analytics
+CI/CD Simplicity is the ultimate sophistication. Machine Learning Agile Distributed Systems Event Sourcing Automation Python Big Data Dream big and dare to fail. Frontend Security Firewalls Replica Set

@@ -6,3 +6,4 @@ Server Response Parallel Processing Dream big and dare to fail. Backend Pull Req
 DNS Routing Database Indexing Dream big and dare to fail. Framework API Gateway Happiness is not something ready made. It comes from your own actions. Scalability Database Server Response Algorithm Replica Set
 Microservices Load Testing DevOps Sharding Frontend Stay hungry, stay foolish. DNS Routing
 DevOps Innovation distinguishes between a leader and a follower. Pull Request Quantum Computing Do what you love and the money will follow. Dream big and dare to fail. Blockchain Content Delivery Network Sharding Performance Replica Set Backend Data Pipeline CI/CD
+Event Sourcing Containerization DevOps Frontend Security
