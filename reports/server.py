@@ -6,3 +6,4 @@ Optimization Lambda Functions Event-driven Architecture Data Pipeline Microservi
 Python Data Pipeline Optimization Performance API WebSockets Kubernetes Scalability Multi-threading Automation Latency Optimization
 Simplicity is the ultimate sophistication. Security Logging RabbitMQ Kafka Cache Invalidation UX Optimization NLP Event Sourcing Agile
 Automation Data Science Security Container Orchestration Load Balancing Virtual Machines Performance Opportunities don't happen. You create them.
+Cloud Functions Database Machine Learning API API Gateway Zero Downtime Deployment Data Pipeline Agile Server Response UX Optimization Event-driven Architecture
