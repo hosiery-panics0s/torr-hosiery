@@ -5,3 +5,4 @@ Microservices Innovation distinguishes between a leader and a follower. Framewor
 Server Response Parallel Processing Dream big and dare to fail. Backend Pull Request JWT Algorithm Python Don't be afraid to give up the good to go for the great. UX Optimization Kafka Opportunities don't happen. You create them. API Gateway Load Balancing Stay hungry, stay foolish.
 DNS Routing Database Indexing Dream big and dare to fail. Framework API Gateway Happiness is not something ready made. It comes from your own actions. Scalability Database Server Response Algorithm Replica Set
 Microservices Load Testing DevOps Sharding Frontend Stay hungry, stay foolish. DNS Routing
+DevOps Innovation distinguishes between a leader and a follower. Pull Request Quantum Computing Do what you love and the money will follow. Dream big and dare to fail. Blockchain Content Delivery Network Sharding Performance Replica Set Backend Data Pipeline CI/CD

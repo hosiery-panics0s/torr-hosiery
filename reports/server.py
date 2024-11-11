@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Backend DevOps Dist
 Optimization Lambda Functions Event-driven Architecture Data Pipeline Microservices API Message Queue Do what you love and the money will follow. Framework
 Python Data Pipeline Optimization Performance API WebSockets Kubernetes Scalability Multi-threading Automation Latency Optimization
 Simplicity is the ultimate sophistication. Security Logging RabbitMQ Kafka Cache Invalidation UX Optimization NLP Event Sourcing Agile
+Automation Data Science Security Container Orchestration Load Balancing Virtual Machines Performance Opportunities don't happen. You create them.
