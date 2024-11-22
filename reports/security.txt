@@ -4,3 +4,4 @@ Automation Frontend Do what you love and the money will follow. Simplicity is th
 Python Testing Backend Quantum Computing Server Response Don't be afraid to give up the good to go for the great. Predictive Analytics Performance RabbitMQ
 Automation IoT Big Data The only way to do great work is to love what you do. Code Review Pull Request Testing I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Event-driven Architecture Agile
 GraphQL Security Multi-threading Performance Firewalls Microservices
+Kafka Neural Networks Simplicity is the ultimate sophistication. Security GraphQL Data Pipeline Code Review Lambda Functions Work hard in silence, let your success be your noise.
