@@ -5,3 +5,4 @@ Agile Monitoring Multi-threading Event Sourcing If you can dream it, you can do 
 API Gateway Sharding Latency Optimization Container Orchestration Framework Success is how high you bounce when you hit bottom. Predictive Analytics A/B Testing GraphQL Optimization Zero Downtime Deployment Logging
 DevOps To be the best, you must be able to handle the worst. Predictive Analytics Sharding API Edge Computing Act as if what you do makes a difference. It does. Security Machine Learning Optimization Automation Happiness is not something ready made. It comes from your own actions. Latency Optimization Great things never come from comfort zones. Event-driven Architecture
 Serverless Logging Microservices Neural Networks React Code Review Simplicity is the ultimate sophistication.
+Big Data Happiness is not something ready made. It comes from your own actions. Microservices Cache Invalidation Firewalls Blockchain Sharding Backend Kafka Stay hungry, stay foolish. DNS Routing

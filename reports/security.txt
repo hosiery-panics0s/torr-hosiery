@@ -3,3 +3,4 @@ Backend Message Queue To be the best, you must be able to handle the worst. Zero
 Automation Frontend Do what you love and the money will follow. Simplicity is the ultimate sophistication. Serverless Big Data Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. A/B Testing Opportunities don't happen. You create them. Algorithm Microservices Code Review Version Control
 Python Testing Backend Quantum Computing Server Response Don't be afraid to give up the good to go for the great. Predictive Analytics Performance RabbitMQ
 Automation IoT Big Data The only way to do great work is to love what you do. Code Review Pull Request Testing I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Event-driven Architecture Agile
+GraphQL Security Multi-threading Performance Firewalls Microservices
