@@ -3,3 +3,4 @@ Version Control A/B Testing Monitoring JavaScript API Gateway Success doesn’t ju
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Database GraphQL Automation Work hard in silence, let your success be your noise. Distributed Systems Logging Blockchain Cloud
 Success doesn’t just find you. You have to go out and get it. GraphQL API Distributed Systems Serverless Firewalls API Gateway Blockchain Message Queue
 Agile Neural Networks Happiness is not something ready made. It comes from your own actions. React Logging Deployment Framework Firewalls Data Pipeline Stay hungry, stay foolish. Database Backend
+JavaScript Neural Networks Backend Python Containerization Success is not in what you have, but who you are. API NLP UX Optimization Docker Container Orchestration Event-driven Architecture OAuth Algorithm Quantum Computing
