@@ -2,3 +2,4 @@ Success usually comes to those who are too busy to be looking for it. Message Qu
 Version Control A/B Testing Monitoring JavaScript API Gateway Success doesn’t just find you. You have to go out and get it. Cloud Success usually comes to those who are too busy to be looking for it. NLP Parallel Processing OAuth
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Database GraphQL Automation Work hard in silence, let your success be your noise. Distributed Systems Logging Blockchain Cloud
 Success doesn’t just find you. You have to go out and get it. GraphQL API Distributed Systems Serverless Firewalls API Gateway Blockchain Message Queue
+Agile Neural Networks Happiness is not something ready made. It comes from your own actions. React Logging Deployment Framework Firewalls Data Pipeline Stay hungry, stay foolish. Database Backend
