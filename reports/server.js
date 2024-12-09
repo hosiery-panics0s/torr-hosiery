@@ -2,3 +2,4 @@ Automation Replica Set Act as if what you do makes a difference. It does. Optimi
 DevOps Blockchain Edge Computing Success doesn’t just find you. You have to go out and get it. Deployment Innovation distinguishes between a leader and a follower. NLP Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Kafka
 Deployment Artificial Intelligence Database Indexing To be the best, you must be able to handle the worst. Load Testing Simplicity is the ultimate sophistication.
 Agile Monitoring Multi-threading Event Sourcing If you can dream it, you can do it. Pull Request Virtual Machines Framework Success usually comes to those who are too busy to be looking for it.
+API Gateway Sharding Latency Optimization Container Orchestration Framework Success is how high you bounce when you hit bottom. Predictive Analytics A/B Testing GraphQL Optimization Zero Downtime Deployment Logging
