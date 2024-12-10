@@ -2,3 +2,4 @@ Performance Cloud Functions Innovation distinguishes between a leader and a foll
 JWT Opportunities don't happen. You create them. Great things never come from comfort zones. Stay hungry, stay foolish. IoT Work hard in silence, let your success be your noise. Firewalls NLP Neural Networks API Gateway Agile API DNS Routing
 Database DNS Routing Edge Computing Monitoring API Deployment Sharding Load Balancing Kubernetes Zero Downtime Deployment Data Science Dream big and dare to fail. Optimization Distributed Systems
 NLP Security Edge Computing Kafka Dream big and dare to fail. Serverless Microservices Success usually comes to those who are too busy to be looking for it. Server Response
+Content Delivery Network Act as if what you do makes a difference. It does. Cache Invalidation Do what you love and the money will follow. Blockchain API Gateway JavaScript Kubernetes
