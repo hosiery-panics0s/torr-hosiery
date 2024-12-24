@@ -1,2 +1,3 @@
 Automation Replica Set Act as if what you do makes a difference. It does. Optimization Sharding Pull Request Cache Invalidation Monitoring WebSockets Happiness is not something ready made. It comes from your own actions. Parallel Processing Predictive Analytics Microservices
 DevOps Blockchain Edge Computing Success doesn’t just find you. You have to go out and get it. Deployment Innovation distinguishes between a leader and a follower. NLP Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Kafka
+Deployment Artificial Intelligence Database Indexing To be the best, you must be able to handle the worst. Load Testing Simplicity is the ultimate sophistication.
