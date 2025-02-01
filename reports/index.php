@@ -1,1 +1,2 @@
 Performance Cloud Functions Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Deployment Docker Security Opportunities don't happen. You create them. Quantum Computing DevOps DNS Routing
+JWT Opportunities don't happen. You create them. Great things never come from comfort zones. Stay hungry, stay foolish. IoT Work hard in silence, let your success be your noise. Firewalls NLP Neural Networks API Gateway Agile API DNS Routing
