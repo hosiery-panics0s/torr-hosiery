@@ -1,1 +1,2 @@
 Frontend IoT Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Cloud Functions Code Review Pull Request Machine Learning
+Success is not in what you have, but who you are. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Event Sourcing Monitoring Microservices Load Testing Kafka Simplicity is the ultimate sophistication.
