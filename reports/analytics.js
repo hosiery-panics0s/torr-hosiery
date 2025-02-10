@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Frontend Serverless Replica Set Distributed Systems Docker IoT
